@@ -113,8 +113,9 @@ Formulation de stratégies marketing concrètes et adaptées à chaque segment i
 ```bash
 Customer_segmentation/
 │
-├── Online Retail.xlsx              # Données (Dataset)
-├── README.md                       # Documentation
-├── clientèle_plot3D                # Image de la visualisation 3D de la clientèle
-├── clientèle_segmentée_plot3D      # Image de la visualisation 3D de la clientèle segmentée
-├── segmentation.ipynb              # Jupyter notebook (EDA, modèle, etc.)
+├── Online Retail.xlsx                      # Données (Dataset)
+├── README.md                                  # Documentation
+├── Visualisation3D_clientèle               # Image de la visualisation 3D de la clientèle
+├── Visualisation3D_clientèle_segmentée      # Image de la visualisation 3D de la clientèle segmentée
+├── segmentation.ipynb                       # Jupyter notebook (EDA, modèle, etc.)
+├── requirements.txt                         # Bibliothèques nécessaires          
