@@ -108,3 +108,13 @@ Formulation de stratégies marketing concrètes et adaptées à chaque segment i
 - **Scikit-learn** : Algorithmes de clustering (K-Means), préprocessing des données.
 - **Matplotlib / Seaborn / plotly** : Visualisation des données.
 
+##  Organisation du projet
+
+```bash
+Customer_segmentation/
+│
+├── Online Retail.xlsx              # Données (Dataset)
+├── README.md                       # Documentation
+├── clientèle_plot3D                # Image de la visualisation 3D de la clientèle
+├── clientèle_segmentée_plot3D      # Image de la visualisation 3D de la clientèle segmentée
+├── segmentation.ipynb              # Jupyter notebook (EDA, modèle, etc.)
