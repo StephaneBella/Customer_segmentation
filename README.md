@@ -121,10 +121,4 @@ Customer_segmentation/
 ├── requirements.txt                         # Bibliothèques nécessaires
 ```
 
----
 
-### Visualisation du Notebook
-
-Si le notebook `segmentation.ipynb` et ses graphiques Plotly (en particulier les graphiques 3D) ne s'affichent pas correctement directement sur GitHub, vous pouvez le consulter via **NBViewer** pour une visualisation interactive :
-
-[Cliquez ici pour voir le notebook sur NBViewer](https://nbviewer.org/github/StephaneBella/Customer_segmentation/blob/master/segmentation.ipynb)
